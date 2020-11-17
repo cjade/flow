@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T09:52:29.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="hX8YAig89wt2AXXhYMVQ" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-17T09:53:31.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="cy4Tc5G328dlrnZBe2bi" version="13.9.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1673" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -177,14 +177,20 @@
             <mxPoint x="141" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-cb7-zarN6fpi-wTe-68-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cb7-zarN6fpi-wTe-68-64" target="-cb7-zarN6fpi-wTe-68-67">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-cb7-zarN6fpi-wTe-68-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cb7-zarN6fpi-wTe-68-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="840" />
+              <mxPoint x="370" y="890" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-cb7-zarN6fpi-wTe-68-64" value="用户余额" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="101" y="800" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-cb7-zarN6fpi-wTe-68-66" value="余额不足" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="860" width="60" height="20" as="geometry" />
+          <mxGeometry x="251" y="820" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-cb7-zarN6fpi-wTe-68-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cb7-zarN6fpi-wTe-68-67">
           <mxGeometry relative="1" as="geometry">
