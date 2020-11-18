@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T09:04:09.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="FScA8QhV6oxirjxpcbGo" version="13.9.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-18T09:05:26.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="JKhm9fp3C-yvdaRUa-ZR" version="13.9.9" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="订单支付">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -187,11 +187,6 @@
         <mxCell id="-cb7-zarN6fpi-wTe-68-66" value="余额不足" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="251" y="820" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-cb7-zarN6fpi-wTe-68-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cb7-zarN6fpi-wTe-68-67" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="461" y="1240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-cb7-zarN6fpi-wTe-68-67" value="余额不足的处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="401" y="870" width="120" height="40" as="geometry" />
         </mxCell>
@@ -204,7 +199,7 @@
         <mxCell id="-cb7-zarN6fpi-wTe-68-71" value="发起支付" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="81" y="960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-cb7-zarN6fpi-wTe-68-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="-cb7-zarN6fpi-wTe-68-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cb7-zarN6fpi-wTe-68-67" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="461" y="1960" as="targetPoint" />
             <mxPoint x="461" y="1220" as="sourcePoint" />
