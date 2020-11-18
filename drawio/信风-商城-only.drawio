@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T07:51:01.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="RspQi12KuQKnFHIqv3he" version="13.9.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-18T07:51:41.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="XSTlo0IGnVP_bObNI_YN" version="13.9.9" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="订单支付">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -368,19 +368,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kbZ2DYcXC1RZ9mf4_zoG" name="登录授权">
-    <mxGraphModel dx="2085" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="2322" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="CIWTvf6S3Ys4PnOb3jQu-0" />
         <mxCell id="CIWTvf6S3Ys4PnOb3jQu-1" parent="CIWTvf6S3Ys4PnOb3jQu-0" />
-        <mxCell id="dv6VyUSKySuK1FAYExE9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="CIWTvf6S3Ys4PnOb3jQu-1" source="dv6VyUSKySuK1FAYExE9-3" target="dv6VyUSKySuK1FAYExE9-6">
+        <mxCell id="dv6VyUSKySuK1FAYExE9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="CIWTvf6S3Ys4PnOb3jQu-1" target="dv6VyUSKySuK1FAYExE9-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-60" y="110" />
             </Array>
+            <mxPoint x="-58.5" y="110" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="dv6VyUSKySuK1FAYExE9-3" value="授权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CIWTvf6S3Ys4PnOb3jQu-1">
-          <mxGeometry x="-531" y="50" width="630" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dv6VyUSKySuK1FAYExE9-4" value="" style="group" vertex="1" connectable="0" parent="CIWTvf6S3Ys4PnOb3jQu-1">
           <mxGeometry x="-539.5" y="50" width="630" height="200" as="geometry" />
